@@ -53,18 +53,18 @@ $scope.restaurants = [{
     phone:'09992222222',
 	id:2
 },{
-// 	name: 'Madrasi Masala Dosa',
-// 	address: 'Shop No. 101, Mugal Canal',
-// 	location: 'karnal,Haryana',
-// 	category: 'Southern Food',
-// 	vote: '4.7',
-// 	cuisines: 'South Indian',
-// 	cost: '150',
-// 	hours: ' 6:00 PM to 11:45 PM (Mon-Sat), Sunday Closed',
-// 	image: 'Dosa2.jpg',
-// 	phone:'09034191912',
-// 	id:3
-// },{
+	name: 'Madrasi Masala Dosa',
+	address: 'Shop No. 101, Mugal Canal',
+	location: 'karnal,Haryana',
+	category: 'Southern Food',
+	vote: '4.7',
+	cuisines: 'South Indian',
+	cost: '150',
+	hours: ' 6:00 PM to 11:45 PM (Mon-Sat), Sunday Closed',
+	image: 'Dosa2.jpg',
+	phone:'09034191912',
+	id:3
+},{
 	name: 'Bikaner Sweets',
 	address: 'Near Civil Hospital Chowk, Kunjpura Road',
 	location: 'karnal,Haryana',
@@ -90,19 +90,19 @@ $scope.restaurants = [{
 	phone:'09834549876',
 	id:5
 },
-// {
-// 	name: 'Vivaan',
-// 	address: '1.8 Km from karan lake, NH-1 Highway',
-// 	location: 'karnal,Haryana',
-// 	category: 'Family restaurant',
-// 	vote: '4.1',
-// 	cuisines: 'Indian',
-// 	cost: '4215',
-// 	hours: '24 hrs open',
-// 	image: 'Vivan1.jpg',
-// 	phone:'09215710000',
-// 	id:6
-// },
+{
+	name: 'Vivaan',
+	address: '1.8 Km from karan lake, NH-1 Highway',
+	location: 'karnal,Haryana',
+	category: 'Family restaurant',
+	vote: '4.1',
+	cuisines: 'Indian',
+	cost: '4215',
+	hours: '24 hrs open',
+	image: 'Vivan1.jpg',
+	phone:'09215710000',
+	id:6
+},
 {
 	name: 'Hot Billions',
 	address: 'Railway Station Road Near Jain Girl School',
