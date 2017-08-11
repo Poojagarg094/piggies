@@ -207,18 +207,18 @@ piggish.controller('restaurantController',function($scope,$routeParams,$http) { 
     	hours: '24 hrs open',
     	image: 'neelkanth1.jpg',
         phone:'09992222222'
-    // },{
-    // 	name: 'Madrasi Masala Dosa',
-    // 	address: 'Shop No. 101, Mugal Canal',
-    // 	location: 'karnal,Haryana',
-    // 	category: 'Southern Food',
-    // 	vote: '4.7',
-    // 	cuisines: 'South Indian',
-    // 	cost: '150',
-    // 	hours: ' 6:00 PM to 11:45 PM (Mon-Sat), Sunday Closed',
-    // 	image: 'Dosa2.jpg',
-    // 	phone:'09034191912'
-    // },{
+    },{
+     	name: 'Madrasi Masala Dosa',
+     	address: 'Shop No. 101, Mugal Canal',
+     	location: 'karnal,Haryana',
+     	category: 'Southern Food',
+     	vote: '4.7',
+     	cuisines: 'South Indian',
+     	cost: '150',
+  	hours: ' 6:00 PM to 11:45 PM (Mon-Sat), Sunday Closed',
+     	image: 'Dosa2.jpg',
+     	phone:'09034191912'
+    },{
     	name: 'Bikaner Sweets',
     	address: 'Near Civil Hospital Chowk, Kunjpura Road',
     	location: 'karnal,Haryana',
@@ -242,18 +242,18 @@ piggish.controller('restaurantController',function($scope,$routeParams,$http) { 
     	image: 'daana1.jpg',
     	phone:'09834549876'
     },
-    // {
-    // 	name: 'Vivaan',
-    // 	address: '1.8 Km from karan lake, NH-1 Highway',
-    // 	location: 'karnal,Haryana',
-    // 	category: 'Family restaurant',
-    // 	vote: '4.1',
-    // 	cuisines: 'Indian',
-    // 	cost: '4215',
-    // 	hours: '24 hrs open',
-    // 	image: 'Vivan1.jpg',
-    // 	phone:'09215710000'
-    // },{
+    {
+     	name: 'Vivaan',
+     	address: '1.8 Km from karan lake, NH-1 Highway',
+     	location: 'karnal,Haryana',
+     	category: 'Family restaurant',
+     	vote: '4.1',
+     	cuisines: 'Indian',
+     	cost: '4215',
+     	hours: '24 hrs open',
+     	image: 'Vivan1.jpg',
+     	phone:'09215710000'
+     },{
     	name: 'Hot Billions',
     	address: 'Railway Station Road Near Jain Girl School',
     	location: 'karnal,Haryana',
@@ -409,7 +409,7 @@ piggish.controller('foodListController',function($scope,$http){
      name:'Burger Combo',
      img:'https://tse2.mm.bing.net/th?id=OIP.R6Y1yAxnp-z9WLbjv0ph-AEsDI&pid=15.1&P=0&w=250&h=167'
    },{
-     name:'',
+     name:'Chicken Afritada',
      img:'https://a2zfoodnames.files.wordpress.com/2014/05/cd058-blogporkchickenafritada1.jpg?w=320&h=212'
    },{
      name:'Cake',
