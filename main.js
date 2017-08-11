@@ -52,7 +52,7 @@ $scope.restaurants = [{
 	image: 'neelkanth1.jpg',
     phone:'09992222222',
 	id:2
-// },{
+},{
 // 	name: 'Madrasi Masala Dosa',
 // 	address: 'Shop No. 101, Mugal Canal',
 // 	location: 'karnal,Haryana',
@@ -102,7 +102,8 @@ $scope.restaurants = [{
 // 	image: 'Vivan1.jpg',
 // 	phone:'09215710000',
 // 	id:6
-// },{
+// },
+{
 	name: 'Hot Billions',
 	address: 'Railway Station Road Near Jain Girl School',
 	location: 'karnal,Haryana',
